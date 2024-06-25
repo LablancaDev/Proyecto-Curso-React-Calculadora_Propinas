@@ -1,7 +1,4 @@
 
-Claro, aquí tienes tu texto adaptado al formato del README sin cambiar ninguna palabra:
-
----
 
 # Proyecto Calculadora de Propinas y Consumo
 
